@@ -44,4 +44,10 @@
 - ![image](https://user-images.githubusercontent.com/97594483/215058246-f8ee9cef-73dd-4e93-bf9b-6b930b7f1dfb.png)
 ![image](https://user-images.githubusercontent.com/97594483/215058466-4c2e2996-013f-4605-9be2-1774762217e9.png)
 
+Тестирование WinRar:
 
+Переход в настройки, вид работает.
+
+Скорость быстрая
+
+При нажатии правой кнопки мыши, открывается меню WinRar, все функции доступны.
